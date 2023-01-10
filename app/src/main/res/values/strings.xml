@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GymProject</string>
+    <string name="titleApp">MyGym</string>
+    <string name="RegApp">Для работы требуется учётная запись</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Регистрация</string>
+</resources>
